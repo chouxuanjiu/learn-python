@@ -1,0 +1,21 @@
+learn-python
+Record some code and experience in Python learning.
+
+
+查看公钥
+cat /root/.ssh/id_rsa.pub
+
+状态
+git status
+添加
+git add -A
+提交
+git commit -m "your comment"
+上传
+git push origin master
+下载
+git clone git@github.com:yourname/learn-python.git
+
+
+
+
