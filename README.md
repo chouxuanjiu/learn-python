@@ -1,11 +1,23 @@
 ### Python自学笔记
 
-不过记录下学习Python过程中的一些代码与偶得。
+`Just record some code and experience during learn Python.`  
 
-`Just record some code and experience in Python learning.`
+不过记录下学习Python过程中的一些代码与偶得。  
 
-实在老~小~白一枚，但有道是:***"Better late than never"***，是吧……
+教程主要参考：
 
-且自勉之。:D
+> Python - 100天从新手到大师 <https://github.com/jackfrued/Python-100-Days>
+
+> Python教程 <https://www.liaoxuefeng.com/wiki/1016959663602400>
+
+> 编程小白的第一本 Python 入门书 <https://www.amazon.cn/dp/B01I2JGBMQ>
+
+> Python游戏编程快速上手 <https://www.amazon.cn/dp/B077QDDRCN>
+
+> ……
+
+本人实在老~小~白一枚，但有道是:***"Better late than never"***，是吧……
+
+且自勉之。:smile:
 
 
